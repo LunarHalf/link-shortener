@@ -30,9 +30,8 @@ Before installing the Shorter Link Generator App, ensure that you have Python in
 ## Installation
 
 1. Clone the repository:
-
-  ```sh
-  git clone https://github.com/your-username/shorter-link-generator-app.git
+    ```sh
+    git clone https://github.com/your-username/shorter-link-generator-app.git
 
 2. Navigate to the project directory:
 
